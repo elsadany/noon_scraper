@@ -11,6 +11,15 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "express": "^5.1.0",
     "puppeteer": "^24.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsadany/noon_scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elsadany/noon_scraper/issues"
+  },
+  "homepage": "https://github.com/elsadany/noon_scraper#readme"
 }
