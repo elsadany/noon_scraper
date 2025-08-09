@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js"
+    "start": "node main.js",
+    "dev": "nodemon main.js"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +14,8 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
-    "puppeteer": "^24.15.0"
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.16.0"
   },
   "repository": {
     "type": "git",
