@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10",
-    "puppeteer": "^24.16.0"
+    "puppeteer": "^24.18.0"
   },
   "repository": {
     "type": "git",
